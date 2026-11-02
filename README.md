@@ -24,5 +24,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srdava)
 
 ## 📫 联系我
-- 📧 [你的邮箱]
-- 🌐 [你的博客/主页]
+- 📧 [1359904797@qq.com]
+- 🌐 [建设中...]
