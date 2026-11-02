@@ -20,7 +20,7 @@
 基于 Prism + HandyControl + OpenCvSharp 的 WPF 工业自动化上位机框架。
 
 ## 📊 GitHub 统计
-![srdava's GitHub stats](https://github-readme-stats.vercel.app/api?username=srdava&show_icons=true&theme=default)
+![srdava's GitHub stats](https://github-stats-extended.vercel.app/api?username=srdava&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srdava)
 
 ## 📫 联系我
